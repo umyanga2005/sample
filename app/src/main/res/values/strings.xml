@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Water Wise</string>
+    <string name="app_tagline">Save Every Drop, Sustain the Future!</string>
+    <string name="welcome_back">Welcome to Water Wise Login</string>
+    <string name="email">Email Address</string>
+    <string name="password">Password</string>
+    <string name="forgot_password">forgot_password</string>
+    <string name="login">Login</string>
+    <string name="dont_have_account">Dont have account</string>
+    <string name="sign_up">Sign Up</string>
+</resources>
